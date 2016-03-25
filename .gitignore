@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+myvenv
+myenv
+meanstack
+db.sqlite3
+.DS_Store
+rails
+ws-sts
